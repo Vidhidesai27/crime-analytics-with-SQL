@@ -1,5 +1,10 @@
-# crime-analytics-with-SQL
-A relational database system for simulating crime investigations using SQL. Includes schema design, data modeling, mock data generation, and analytical queries.
+# 🕵️ Crime Analytics with SQL
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
+![SQL](https://img.shields.io/badge/Language-SQL-red?logo=sqlite)
+![Mockaroo](https://img.shields.io/badge/Data-Mockaroo-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+This project simulates a relational database for crime investigation using SQL. It models complex relationships between crimes, suspects, officers, forensics, and crime scenes to demonstrate how data supports law enforcement analytics.
 
 
 ## 🧱 Key Features
